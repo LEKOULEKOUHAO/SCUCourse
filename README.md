@@ -1,4 +1,4 @@
-<p align='center'><img src='./img/四川大学.png#gh-light-mode-only' width=70%></p>
+<p align='center'><img src='./img/SCU.png' width=70%></p>
 
 # 四川大学课程复习资料共享仓库
 欢迎来到四川大学课程复习资料共享仓库！本仓库旨在为川大学子提供一个方便快捷的平台，共享和获取各类课程的复习资料，共同学习，共同进步。
